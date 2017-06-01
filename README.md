@@ -1,7 +1,7 @@
 # Alpy Hotels
 > Project based on Demola Challenge
 
-![]()
+![captura](screenshot.png)
 
 
 ## Description
