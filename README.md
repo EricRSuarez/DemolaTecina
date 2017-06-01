@@ -5,14 +5,13 @@
 ![captura](screenshot.png)
 
 
-## How to use
+## Install
 
 ```bash
-
+$ git clone git@github.com:ericsuarez/DemolaTecina.git demolatecina
+$ cd demolatecina
 $ npm i
 $ gulp
-
-
 ```
 
 **And keep waiting...**
