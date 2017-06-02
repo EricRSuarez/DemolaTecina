@@ -223,9 +223,11 @@ $(function () {
 
 
 
-$("body").on("keydown", ".sub-box", function(e){
+$("body").on("keydown click", ".sub-box", function(e){
   if (!e) e = window.event;
+
   var keyCode = e.keyCode || e.which;
+  if(e.type == "click"){keyCode = 13};
   if (keyCode == 13) { 
 
     if(comprobarFuncion($(this).attr('value'))){
@@ -250,6 +252,7 @@ $("body").on("keydown", ".sub-box", function(e){
 
 
         swal({
+          confirmButtonText: 'Confirmar'
         }).then(
         function() { 
           swal({
