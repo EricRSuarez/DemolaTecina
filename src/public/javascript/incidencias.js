@@ -67,7 +67,7 @@ function check(){
     return localStorage.getItem("carga");
   }
   
-  return "/Incidencias";
+  return "Incidencias";
 
 }
 
@@ -140,18 +140,20 @@ $(function () {
 
 
 
-
-  firebase.database().ref(carga).once('value').then(function(snapshot) {
+ 
     var href;
     var nombre;
     var count = 0;
 
-    
 
-    for(i in snapshot.val()){
 
+    $.getJSON("firebase.json", function(result){
+        
+    var resultado = result[carga];
+    console.log(resultado)
+    for( i in resultado){
       count++;
-      nombre = snapshot.val()[i].nombre;
+      nombre = resultado[i].nombre;
 
 
 
@@ -167,12 +169,8 @@ $(function () {
 
       $('.box').append(href);
 
-
-      
-      
-
-
-    }
+    };
+  
 
     if(count > 9){
 
@@ -215,8 +213,9 @@ $(function () {
 
 
     $('.sub-box[id="0"]').focus();
+  
 
-  })
+  });
 });
 
 
@@ -281,7 +280,7 @@ $("body").on("keydown click", ".sub-box", function(e){
           localStorage.setItem("atras",localStorage.getItem("carga"));
 
           if(comprobarPalabra($(this).attr('value'))){
-            localStorage.setItem("carga", "SubCategorías/" + $(this).attr('value'));
+            localStorage.setItem("carga", "Sub" + $(this).attr('value'));
           }
           else{
             localStorage.setItem("final",true);

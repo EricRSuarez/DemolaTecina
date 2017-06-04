@@ -1,0 +1,389 @@
+{
+  "Accesorios" : [ {
+    "nombre" : "Ambientador"
+  }, {
+    "nombre" : "Dosificador Gel"
+  }, {
+    "nombre" : "Porta Kleenex"
+  }, {
+    "nombre" : "Portarrollos P Higienico"
+  }, {
+    "nombre" : "Jaboneras"
+  }, {
+    "nombre" : "Secador Pelo"
+  }, {
+    "nombre" : "Bisagras ventana baño"
+  } ],
+  "Aire Acondicionado" : [ {
+    "nombre" : "Aire Acondicionado desagüe"
+  }, {
+    "nombre" : "Acondicionado - Ruidoso"
+  }, {
+    "nombre" : "Aire acondicionado filtro"
+  }, {
+    "nombre" : "Aire acondicionado interruptor"
+  } ],
+  "Alumbrado" : [ {
+    "nombre" : "Alumbrado Ext"
+  }, {
+    "nombre" : "Alumbrado Int"
+  }, {
+    "nombre" : "Foco techo (Zona 400)"
+  }, {
+    "nombre" : "Tarjetero Luz"
+  }, {
+    "nombre" : "Luz entrada/Aplique"
+  } ],
+  "Armario" : [ {
+    "nombre" : "Argolla perchas"
+  }, {
+    "nombre" : "Barra Armario"
+  }, {
+    "nombre" : "Caja Fuerte"
+  }, {
+    "nombre" : "Cajón Armario"
+  }, {
+    "nombre" : "Maletero"
+  }, {
+    "nombre" : "Puerta Armario"
+  } ],
+  "Bajantes" : [ {
+    "nombre" : "Bajante Bidet"
+  }, {
+    "nombre" : "Bajante Ducha"
+  }, {
+    "nombre" : "Bajante Lavabo"
+  }, {
+    "nombre" : "Bajante Plato Ducha"
+  } ],
+  "Baño-Otros" : [ {
+    "nombre" : "Puerta de Baño"
+  }, {
+    "nombre" : "Puerta plato ducha"
+  } ],
+  "Camas" : [ {
+    "nombre" : "Cabezal Cama"
+  }, {
+    "nombre" : "Colchon"
+  }, {
+    "nombre" : "Pata Cama"
+  } ],
+  "Cerraduras" : [ {
+    "nombre" : "Cerradura puerta baño"
+  }, {
+    "nombre" : "Cerradura puerta entrada"
+  }, {
+    "nombre" : "Cerradura Puertas"
+  }, {
+    "nombre" : "Cierre Ventanales"
+  } ],
+  "Cortinas" : [ {
+    "nombre" : "Estores"
+  }, {
+    "nombre" : "Barra Cortina"
+  }, {
+    "nombre" : "Cortina o ganchos"
+  }, {
+    "nombres" : "Cortinero o portier"
+  } ],
+  "Elementos-Baño" : [ {
+    "nombre" : "Asiento bidet"
+  }, {
+    "nombre" : "Asiento / Tapa WC"
+  }, {
+    "nombre" : "Bañera"
+  }, {
+    "nombre" : "Cisterna"
+  }, {
+    "nombre" : "Ducha grifo"
+  }, {
+    "nombre" : "Ducha mesclador"
+  }, {
+    "nombre" : "Ducha barra"
+  }, {
+    "nombre" : "Ducha moña"
+  }, {
+    "nombre" : "Ducha mangera"
+  }, {
+    "nombre" : "Espejo baño"
+  }, {
+    "nombre" : "Lavabo desague"
+  }, {
+    "nombre" : "Lavabo desague"
+  } ],
+  "Enchufes" : [ {
+    "nombre" : "Enchufe Cabecero"
+  }, {
+    "nombre" : "Enchufe Escritorio"
+  }, {
+    "nombre" : "Enchufe Lámparas"
+  }, {
+    "nombre" : "Enchufe Teléfono"
+  }, {
+    "nombre" : "Enchufe Tv"
+  } ],
+  "Grifos" : [ {
+    "nombre" : "Grifo bañera"
+  }, {
+    "nombre" : "Grifo Bidet"
+  }, {
+    "nombre" : "Grifo ducha"
+  }, {
+    "nombre" : "Grifo Lavabo"
+  } ],
+  "Habitaciones-Otros" : [ {
+    "nombre" : "pesa"
+  }, {
+    "nombre" : "Minibar"
+  }, {
+    "nombre" : "Tendedero"
+  }, {
+    "nombre" : "Mosquitero"
+  }, {
+    "nombre" : "Reloj despertador"
+  } ],
+  "Incidencias" : [ {
+    "nombre" : "Instalaciones"
+  }, {
+    "nombre" : "Baño"
+  }, {
+    "nombre" : "Armario"
+  }, {
+    "nombre" : "Habitaciones"
+  }, {
+    "nombre" : "Mantenimiento"
+  }, {
+    "nombre" : "Suelo y Techo"
+  }, {
+    "nombre" : "Terraza"
+  }, {
+    "nombre" : "Ventanas"
+  }, {
+    "nombre" : "Otros"
+  } ],
+  "Interruptores" : [ {
+    "nombre" : "Int Luz hab Cabecero"
+  }, {
+    "nombre" : "Interruptor habitación"
+  }, {
+    "nombre" : "Interruptor General"
+  }, {
+    "nombre" : "Interruptores Baño"
+  } ],
+  "Lámparas" : [ {
+    "nombre" : "Lámpara Baño"
+  }, {
+    "nombre" : "Lámpara Cab  Cama"
+  }, {
+    "nombre" : "Lámpara de Balcón"
+  }, {
+    "nombre" : "Lámpara Emergencia"
+  }, {
+    "nombre" : "Lámpara Entrada Baño"
+  }, {
+    "nombre" : "Lampara escalera"
+  }, {
+    "nombre" : "Lámpara Escritorio"
+  }, {
+    "nombre" : "Lampara hab tulipa"
+  }, {
+    "nombre" : "Lámpara Pie Habitación"
+  }, {
+    "nombre" : "Lampara terraza"
+  } ],
+  "Mantenimiento-Otros" : [ {
+    "nombre" : "Tope Apertura Puerta"
+  }, {
+    "nombre" : "Marco puertas"
+  }, {
+    "nombre" : "Madera Balcón"
+  }, {
+    "nombre" : "Metal Cabeceros"
+  }, {
+    "nombre" : "Metal Mesillas"
+  }, {
+    "nombre" : "Albañilería"
+  }, {
+    "nombre" : "Aluminio Puertas"
+  }, {
+    "nombre" : "Carpintería"
+  } ],
+  "Muebles" : [ {
+    "nombre" : "Butaca Habitación"
+  }, {
+    "nombre" : "Cuadros"
+  }, {
+    "nombre" : "Encimera Mármol"
+  }, {
+    "nombre" : "Espejo habitacion"
+  }, {
+    "nombre" : "Estanteria"
+  }, {
+    "nombre" : "Butaca"
+  }, {
+    "nombre" : "Mesa marmol"
+  }, {
+    "nombre" : "Puerta de Entrada"
+  }, {
+    "nombre" : "Puerta de Muebles"
+  }, {
+    "nombre" : "Sofás"
+  }, {
+    "nombre" : "Mueble escritorio"
+  }, {
+    "nombre" : "Mueble tv"
+  } ],
+  "Otros" : [ {
+    "nombre" : "Hormigas, Cucarachas"
+  }, {
+    "nombre" : "Humedades"
+  }, {
+    "nombre" : "Internet - No Funciona"
+  }, {
+    "nombre" : "Agua potable"
+  } ],
+  "Pintura" : [ {
+    "nombre" : "Pintura Armario"
+  }, {
+    "nombre" : "Pintura mesa de noche"
+  }, {
+    "nombre" : "Pintura cabecero"
+  }, {
+    "nombre" : "Pintura Bañera"
+  }, {
+    "nombre" : "Pintura Baño"
+  }, {
+    "nombre" : "Pintura Mueble maletero"
+  }, {
+    "nombre" : "Pintura Mueble tv"
+  }, {
+    "nombre" : "Pintura Mueble escritorio"
+  }, {
+    "nombre" : "Pintura Pared"
+  }, {
+    "nombre" : "Pintura Puertas armario"
+  }, {
+    "nombre" : "Pintura Puertas"
+  }, {
+    "nombre" : "Pintura Techo"
+  } ],
+
+    "SubBaño" : [ {
+      "nombre" : "Elementos-Baño"
+    }, {
+      "nombre" : "Grifos"
+    }, {
+      "nombre" : "Bajantes"
+    }, {
+      "nombre" : "Tapones"
+    }, {
+      "nombre" : "Toalleros"
+    }, {
+      "nombre" : "Baño-Otros"
+    } ],
+    "SubHabitaciones" : [ {
+      "nombre" : "Camas"
+    }, {
+      "nombre" : "Cortinas"
+    }, {
+      "nombre" : "Muebles"
+    }, {
+      "nombre" : "Habitaciones-Otros"
+    } ],
+    "SubInstalaciones" : [ {
+      "nombre" : "Alumbrado"
+    }, {
+      "nombre" : "Lámparas"
+    }, {
+      "nombre" : "Cerraduras"
+    }, {
+      "nombre" : "Enchufes"
+    }, {
+      "nombre" : "Interruptores"
+    }, {
+      "nombre" : "TV"
+    }, {
+      "nombre" : "Teléfonos"
+    }, {
+      "nombre" : "Aire Acondicionado"
+    } ],
+    "SubMantenimiento" : [ {
+      "nombre" : "Pintura"
+    }, {
+      "nombre" : "Mantenimiento-Otros"
+    } ],
+  
+  "Suelo y Techo" : [ {
+    "nombre" : "Escalón"
+  }, {
+    "nombre" : "Piso Baño"
+  }, {
+    "nombre" : "Piso Habitación"
+  }, {
+    "nombre" : "Piso Terraza"
+  }, {
+    "nombre" : "Rejunte Piso"
+  }, {
+    "nombre" : "Zócalo"
+  }, {
+    "nombre" : "Detector incendio"
+  }, {
+    "nombre" : "Azulejos Baño/Rejunt"
+  }, {
+    "nombre" : "Imbornales"
+  }, {
+    "nombre" : "Mármol Baño"
+  }, {
+    "nombre" : "Rejilla Baño"
+  }, {
+    "nombre" : "Rejunte WC/Lav/Bañera"
+  } ],
+  "TV" : [ {
+    "nombre" : "Mando Tv"
+  }, {
+    "nombre" : "Tv"
+  }, {
+    "nombre" : "Tv Canales"
+  } ],
+  "Tapones" : [ {
+    "nombre" : "Tapón Bañera"
+  }, {
+    "nombre" : "Tapón Bidet"
+  }, {
+    "nombre" : "Tapón Lavabo"
+  } ],
+  "Teléfonos" : [ {
+    "nombre" : "Teléfono Baño"
+  }, {
+    "nombre" : "Teléfono Mesilla"
+  } ],
+  "Terraza" : [ {
+    "nombre" : "Base sombrilla"
+  }, {
+    "nombre" : "Puerta Terraza"
+  }, {
+    "nombre" : "Hamaca"
+  }, {
+    "nombre" : "Mesa Terraza"
+  }, {
+    "nombre" : "Silla Terraza"
+  }, {
+    "nombre" : "Sombrilla"
+  } ],
+  "Toalleros" : [ {
+    "nombre" : "Toallero Baño"
+  }, {
+    "nombre" : "Toallero Bidet"
+  }, {
+    "nombre" : "Toallero Lavabo"
+  } ],
+  "Ventanas" : [ {
+    "nombre" : "Cristal Ventanales"
+  }, {
+    "nombre" : "Ventana Baño"
+  }, {
+    "nombre" : "Ventana Lateral Zona 400"
+  }, {
+    "nombre" : "Ventanillo Puerta Entrada"
+  } ]
+}
