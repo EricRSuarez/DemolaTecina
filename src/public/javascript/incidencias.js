@@ -147,7 +147,7 @@ $(function () {
 
 
 
-    $.getJSON("firebase.json", function(result){
+    $.getJSON("./firebase.json", function(result){
         
     var resultado = result[carga];
     console.log(resultado)
